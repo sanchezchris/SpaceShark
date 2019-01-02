@@ -1,0 +1,1 @@
+playerDeathDuration = 0;

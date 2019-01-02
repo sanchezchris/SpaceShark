@@ -1,0 +1,42 @@
+n = 1;
+w= 13;
+
+energy1 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy2 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy3 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy4 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy5 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy6 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy7 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy8 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy9 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy10 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock); // 10
+n++;
+energy11 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy12 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy13 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy14 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy15 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy16 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy17 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy18 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy19 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock);
+n++;
+energy20 =instance_create_layer(obj_EnergyBar.x, obj_EnergyBar.y+(n*w), "GUI", obj_EnergyBlock); // 20

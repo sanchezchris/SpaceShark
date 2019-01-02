@@ -1,0 +1,1 @@
+DeathDuration = 0;

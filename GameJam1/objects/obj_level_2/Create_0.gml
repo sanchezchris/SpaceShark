@@ -1,0 +1,20 @@
+time = 0;
+time2 = 0;
+fp = 60;
+varience = 5;
+boss = false;
+complete = false;
+start = false;
+
+w1 = window_get_width()/11;
+w2 = window_get_width()/10;
+w3 = window_get_width()/8;
+w4 = window_get_width()/6;
+w5 = window_get_width()/4;
+w6 = window_get_width()/2;
+w7 = window_get_width()/1.95;
+w8 = window_get_width()/1.80;
+w9 = window_get_width()/1.65;
+w10 = window_get_width()/1.50;
+w11 = window_get_width()/1.35;
+w12 = window_get_width()/1.25;

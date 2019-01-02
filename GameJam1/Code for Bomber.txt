@@ -1,0 +1,33 @@
+//in create//////
+
+hp = 30;
+left = false;
+desc = 1.5;
+
+
+//in step//////
+//this one at very beginning
+if (hp = 0) instance_destroy();
+
+
+y = y + desc;
+
+if (y > window_get_y()/.3) desc = 0;
+
+if (desc = 0) {
+	
+if (x < window_get_x()+100) {
+	left = false;	
+}
+
+if (x > window_get_width()-100) {
+	left = true;	
+}
+
+if (left = true) {
+	x = x - 1.5;	
+} else {
+	x = x + 1.5;	
+}
+
+}

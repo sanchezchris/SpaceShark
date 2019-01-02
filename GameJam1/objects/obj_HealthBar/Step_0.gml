@@ -1,0 +1,426 @@
+if(instance_exists(obj_Player)){
+
+if(obj_Player.playerHealth == 20){
+	instance1.visible = true;
+	instance2.visible = true;
+	instance3.visible = true;
+	instance4.visible = true;
+	instance5.visible = true;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 19){
+	instance1.visible = false;
+	instance2.visible = true;
+	instance3.visible = true;
+	instance4.visible = true;
+	instance5.visible = true;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 18){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = true;
+	instance4.visible = true;
+	instance5.visible = true;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 17){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = true;
+	instance5.visible = true;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 16){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = true;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 15){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = true;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+
+}
+if(obj_Player.playerHealth == 14){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = true;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 13){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = true;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 12){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = true;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 11){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = true;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 10){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = true;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 9){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = true;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 8){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = true;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 7){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = true;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+
+}
+if(obj_Player.playerHealth == 6){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = true;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 5){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = false;
+	instance16.visible = true;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 4){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = false;
+	instance16.visible = false;
+	instance17.visible = true;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 3){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = false;
+	instance16.visible = false;
+	instance17.visible = false;
+	instance18.visible = true;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 2){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = false;
+	instance16.visible = false;
+	instance17.visible = false;
+	instance18.visible = false;
+	instance19.visible = true;
+}
+if(obj_Player.playerHealth == 1){
+	instance1.visible = false;
+	instance2.visible = false;
+	instance3.visible = false;
+	instance4.visible = false;
+	instance5.visible = false;
+	instance6.visible = false;
+	instance7.visible = false;
+	instance8.visible = false;
+	instance9.visible = false;
+	instance10.visible = false;
+	instance11.visible = false;
+	instance12.visible = false;
+	instance13.visible = false;
+	instance14.visible = false;
+	instance15.visible = false;
+	instance16.visible = false;
+	instance17.visible = false;
+	instance18.visible = false;
+	instance19.visible = false;
+}
+
+}
